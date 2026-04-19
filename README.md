@@ -1,2 +1,3 @@
 # AlienAPI
-Landing Page under construction
+
+AlienAPI Python Package. Landing Page under construction.
