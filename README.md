@@ -6,6 +6,8 @@ Irene from the 2018 Sentdex Discord stream — now in your terminal.
 
 The bot that produced the glorious "Instructions unclear, dick stuck in the head" response, the "pip install AlienAPI" meme, and was later credited in the [GavinTraining README](https://github.com/Gavin-Development/GavinTraining) for eliciting coherent and contextual responses from chatbots.
 
+[AlienAPI on PyPi](https://pypi.org/project/AlienAPI/)
+
 ### Installation
 ```bash
 pip install AlienAPI
